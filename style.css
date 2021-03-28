@@ -38,7 +38,7 @@ p{
 @media screen and (min-width: 1001px) {
 	.card {
 		margin-left: 32%;
-		margin-top: 2%;
+		margin-top: 3%;
 		padding: 0px;
 		background-color: white;
 		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -101,7 +101,7 @@ p{
 	body {
 		width: 100%;
 		margin: 0px;
-		background: url(img/pexels-huebert-world-3213982.jpg) fixed no;
+		background: url(img/bgg.jpg) fixed no;
 		overflow-x: hidden;
 		
 	}
@@ -112,7 +112,7 @@ p{
 		border: 0px;
 	}
 	.card {
-		margin-top: 10%;
+		margin-top: 20%;
 		margin-left: 2%;
 		margin-right: 0px;
 		background-color: white;
@@ -206,7 +206,7 @@ p{
 	body {
 		width: 100%;
 		margin: 0px;
-		background: url(img/pexels-huebert-world-3213982.jpg) fixed no;
+		background: url(img/bgg.jpg) fixed no;
 		overflow-x: hidden;
 	}
 	hr {
@@ -308,7 +308,7 @@ p{
 	body {
 		width: 100%;
 		margin: 0px;
-		background: url(img/pexels-huebert-world-3213982.jpg) fixed no;
+		background: url(img/bgg.jpg) fixed no;
 		overflow-x: hidden;
 	}
 	hr {
